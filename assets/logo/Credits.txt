@@ -1,0 +1,4 @@
+Speical thanks to the follow for the logo:
+    jdorfman: https://github.com/odb/official-bash-logo
+    Tuanese: https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/ActionScript_icon.png/120px-ActionScript_icon.png?20080927140008
+    worldvectorlogo: https://worldvectorlogo.com/
