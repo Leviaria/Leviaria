@@ -23,6 +23,8 @@
   <code><img alt="Python" title="Python" src="./assets/logo/python.svg" height="40"></code>
   <code><img alt="Java" title="Java" src="./assets/logo/java.svg" height="40"></code>
   <code><img alt="MS-SQ" title="Microsoft SQL" src="./assets/logo/MS_SQL.svg" height="40"></code>
+  <code><img alt="Pawn" title="Pawn" src="./assets/logo/190778.svg" height="40"></code>
+
 </p>
 <h2 align="center">Web application development</h2>
 <p align="center">
