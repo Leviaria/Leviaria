@@ -2,7 +2,8 @@
 <p align="center">
   <a href="#"><img alt="Profile View" src="https://komarev.com/ghpvc/?username=Leviaria&color=4c8ed9&style=flat-square" /></a>
  </p>
- Hello 👋 I enjoy coding, designing new programme and website, and contributing on fun open-source project on my free time.
+ Hello, I'm glad you found your way here. 👋 
+ <br/>I enjoy coding, designing new programme and website, and contributing on fun open-source project on my free time.
 </p>
 <p align="center">
 <!-- Profile Info section -->
