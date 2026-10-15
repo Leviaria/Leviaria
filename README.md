@@ -17,6 +17,7 @@ I love coding, building fun open-source projects, and exploring new tech trends.
   <img alt="Java" title="Java" src="./assets/logo/java.svg" height="40">
   <img alt="MS SQL" title="Microsoft SQL" src="./assets/logo/MS_SQL.svg" height="40">
   <img alt="Pawn" title="Pawn" src="./assets/logo/190778.svg" height="40">
+  <img alt="Rust" title="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="40">
 </p>
 
 <h3 align="center">Web Development</h3>
